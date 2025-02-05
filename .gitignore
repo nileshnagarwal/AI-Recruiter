@@ -1,0 +1,9 @@
+.DS_Store
+.DS_Store?
+._*
+*.env
+*.wav
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
