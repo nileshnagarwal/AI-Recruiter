@@ -1,0 +1,6 @@
+Response Latencies (seconds):
+Turn 1:
+  STT Time: 1.13s
+  First Response Time: 4.15s
+  Total Time: 17.41s
+

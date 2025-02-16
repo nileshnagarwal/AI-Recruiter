@@ -1,0 +1,15 @@
+User: Hello, how are you?
+AI: I'm doing well, thank you for asking. I hope you are too. Are you ready to start the interview?
+
+User: I'm too, thank you for asking. I hope you are too. Are you ready to start the interview? Yes, I am.
+AI: Great! Let's begin. Could you start by telling me a little bit about yourself and why you are interested in this position?
+
+User: Great, let's begin. Could you start?
+AI: Certainly. I'd like to understand your background and experience better. Can you walk me through your resume, highlighting any positions or projects that you feel are particularly relevant to the role we're discussing today?
+
+User: here will , please hope you enjoy this useful video, please try not to love the video you have received a follow-up for a video i am planning to expand your learning
+AI: It seems there might be a bit of a mix-up. Today we're here to discuss your background and experience in relation to the job role you've applied for. Could you tell me more about your professional experience and how it aligns with the job you're applying for?
+
+User: Please continue.
+AI: It seems there might be some confusion in our communication. As the interviewer, I'd like to steer the conversation toward understanding your qualifications and fit for the role. Could you please share with me your professional background and what interests you about the opportunity with our company?
+

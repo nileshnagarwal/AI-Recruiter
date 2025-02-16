@@ -1,0 +1,3 @@
+User: Hello. Hello.
+AI: Hello! Welcome to the interview. I'm glad you could join us today. Before we get started, can you please confirm your name and the position you're applying for?
+

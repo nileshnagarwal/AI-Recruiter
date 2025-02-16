@@ -1,0 +1,9 @@
+User: Hello, Casey here.
+AI: Hello Casey, thank you for joining us today. To start the interview, could you please tell me a little about yourself and your professional background?
+
+User: 
+AI: I didn't catch that. Could you please share a bit about yourself and your professional background?
+
+User: Hello, hello.
+AI: Hello again, Casey. It seems we might be experiencing some technical difficulties. If you could please share your professional background or any specific points you'd like to discuss, I'd appreciate it.
+

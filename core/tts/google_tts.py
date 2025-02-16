@@ -4,7 +4,7 @@ Classes:
     GoogleTTS: A class that inherits from BaseTTS and provides methods to synthesize speech from text.
 Methods:
     __init__(): Initializes the GoogleTTS class and creates a TextToSpeechClient instance.
-    synthesize(text, language="hi-IN"): Synthesizes speech from the provided text and saves it as a WAV file.
+    synthesize(text, output_path="response.wav", language="hi-IN"): Synthesizes speech from the provided text and saves it as a WAV file.
 Usage:
     google_tts = GoogleTTS()
     audio_file_path = google_tts.synthesize("Hello, world!", language="en-US")
@@ -28,7 +28,7 @@ class GoogleTTS(BaseTTS):
             
         self.client = texttospeech.TextToSpeechClient()
         
-    def synthesize(self, text, language="hi-IN"):
+    def synthesize(self, text, output_path="response.wav", language="hi-IN"):
         # Configure the voice request
         synthesis_input = texttospeech.SynthesisInput(text=text)
         
@@ -51,7 +51,6 @@ class GoogleTTS(BaseTTS):
         )
         
         # Save the audio file
-        output_path = "response.wav"
         with open(output_path, "wb") as out:
             out.write(response.audio_content)
             

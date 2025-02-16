@@ -1,0 +1,3 @@
+User: Hi, upcase in.
+AI: Hello! Welcome to the interview. Before we proceed, could you please confirm your name and the position you're applying for today?
+
