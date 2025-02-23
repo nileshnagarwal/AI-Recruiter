@@ -15,3 +15,4 @@
 - [x] The LLM should be informed about the should_exit flag for it to use it correctly.
 
 - [ ] Test hindi transcription. It doesnt seem to be working. 
+- [ ] When the user interupts the conversation when the agent is speaking, make sure to include the part that the agent has already spoken in the history of the conversation when prompting the agent to speak again. Also, include a tag such as <user interupted while speaking hence cutoff mid speaking>, so as to explain to the agent what has happened and why the conversation doesn't seem coherent from the agent's side. 
