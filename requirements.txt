@@ -8,3 +8,8 @@ pydub
 boto3==1.36.12
 google-api-core==2.24.1
 google-cloud-texttospeech>=2.24.0
+opencv-python 
+pyaudio 
+pillow
+mss
+google-genai
